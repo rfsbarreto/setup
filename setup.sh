@@ -26,7 +26,7 @@ apt-get update
 apt-get install libc6-i386 lib32stdc++6 lib32gcc1 lib32ncurses5
 
 # Office
-apt-get libreoffice
+apt-get install libreoffice
 
 # Gerais
 apt-get install comix qbittorrent clementine opera ubuntu-restricted-extras faac faad ffmpeg ffmpeg2theora flac icedax id3v2 lame libflac++6 libjpeg-progs libmpeg3-1 mencoder mjpegtools mp3gain mpeg2dec mpeg3-utils mpegdemux mpg123 mpg321 regionset sox uudeview vorbis-tools x264 arj p7zip p7zip-full p7zip-rar rar unrar unace-nonfree vlc nautilus-dropbox k3b gedit-plugins vim guake
