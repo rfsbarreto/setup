@@ -27,7 +27,7 @@ apt-get install libc6-i386 lib32stdc++6 lib32gcc1 lib32ncurses5
 
 # Instalacao da biblioteca GMP
 wget https://gmplib.org/download/gmp/gmp-6.0.0a.tar.lz
-apt-get install lzip
+apt-get install lzip m4
 lzip -d gmp-6.0.0a.tar.lz
 tar -xvf gmp-6.0.0a.tar
 cd /gmp-6.0.0a.tar.lz/
